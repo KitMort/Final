@@ -1,0 +1,11 @@
+.pet2{
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%
+}
+*{ 
+    background-color: #181A1F;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+
+}
